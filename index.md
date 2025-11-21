@@ -106,7 +106,7 @@ This page provides a category manager with overall understanding of:
 - Hotel distribution  
 - Outlier analysis  
 
-![Page 1](Dashboard_Images/Page1.png)
+![Page 1](Dashboard_Images/Page1.PNG)
 
 ---
 
@@ -134,7 +134,7 @@ Focuses on sustainability and trip-level breakdown:
 - Flight duration trends  
 - Risk and outlier patterns  
 
-![Page 3](Dashboard_Images/Page3PNG.png)
+![Page 3](Dashboard_Images/Page3PNG.PNG)
 
 ---
 
