@@ -72,12 +72,12 @@ A three-page interactive dashboard designed for procurement decision-makers:
 ---
 
 ### **2. Supplier / Agency Performance**
-![Supplier Performance](Dashboard_Images/Page2PNG.PNG)
+![Supplier Performance](Dashboard_Images/Page3PNG.PNG)
 
 ---
 
 ### **3. Cost Efficiency & Trip Drivers**
-![Trip Efficiency](Dashboard_Images/Page3PNG.PNG)
+![Trip Efficiency](Dashboard_Images/Page2PNG.PNG)
 
 ---
 
