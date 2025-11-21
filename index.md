@@ -89,52 +89,54 @@ A complete end-to-end analytics workflow was built:
 
 ---
 
-# 📊 Dashboard Pages
-
-Below are the main Power BI dashboard screenshots included in this project.
+## 📊 Dashboard Pages
 
 ---
 
 ## **1. Travel Cost & Efficiency Overview**
-This page provides a category manager with overall understanding of:
 
-- Total spend  
-- Cost per km  
-- Cost per night  
-- Flight metrics  
-- Trip duration  
-- Hotel distribution  
-- Outlier analysis  
+This page provides:
+- Total travel spend  
+- Total trips
+- Average trip cost
+- Total CO₂ emissions
+- Total trip cost trend by flight time  
+- Hotel nights distribution  
+- High-cost trip identification (donut chart)
 
-![Page 1](Dashboard_Images/Page3PNG.PNG)
+![Travel Cost & Efficiency](Dashboard_Images/Page1.PNG)
+*(This corresponds to the image shown on page 8 of the uploaded file)*
 
 ---
 
 ## **2. Supplier / Agency Performance**
-Core procurement page showing:
 
+This page shows:
 - Total spend by agency  
-- Average cost_per_km  
+- Average cost per km by agency  
 - Supplier efficiency  
 - High-cost trip contribution  
 - Agency-level KPIs  
-- Strategic sourcing opportunities  
+- Strategic sourcing insights  
 
-![Page 2](Dashboard_Images/Page2PNG.PNG)
+![Supplier Performance](Dashboard_Images/Page3PNG.PNG)
+*(This corresponds to the first large agency table + bar charts shown on page 5)*
+:contentReference[oaicite:2]{index=2}
 
 ---
 
-## **3. Trip & CO₂ Analysis**
-Focuses on sustainability and trip-level breakdown:
+## **3. Trip Efficiency & Cost Drivers**
 
-- Total trips  
-- Total CO₂ emissions  
-- CO₂ by agency  
-- Hotel impact  
-- Flight duration trends  
-- Risk and outlier patterns  
+This page contains:
+- Average cost per km  
+- Average cost per hotel night  
+- Scatter plot (total trip cost vs flight distance)  
+- Hotel insights (hotel total & cost per night)  
+- Cost per night by # of flights  
 
-![Page 3](Dashboard_Images/Page1.PNG)
+![Cost Efficiency](Dashboard_Images/Page2PNG.PNG)
+*(This corresponds to the scatter + hotel visual section shown on page 6)* 
+:contentReference[oaicite:3]{index=3}
 
 ---
 
