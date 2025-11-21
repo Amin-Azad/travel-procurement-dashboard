@@ -192,19 +192,6 @@ Browse the full code, data, and files:
 
 👉 **https://github.com/Amin-Azad/travel-procurement-dashboard**
 
----
 
-# Live Portfolio Website
-This website is powered by **GitHub Pages**.
-
-👉 **https://Amin-Azad.github.io/travel-procurement-dashboard**
-
----
-
-# 📬 Contact
-For collaboration or interview opportunities:
-
-📧 YOUR_EMAIL  
-🔗 LinkedIn: YOUR_LINKEDIN
 
 
