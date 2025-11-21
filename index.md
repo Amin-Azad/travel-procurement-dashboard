@@ -89,7 +89,7 @@ A complete end-to-end analytics workflow was built:
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 ---
 
@@ -105,7 +105,7 @@ This page provides:
 - High-cost trip identification (donut chart)
 
 ![Travel Cost & Efficiency](Dashboard_Images/Page1.PNG)
-*(This corresponds to the image shown on page 8 of the uploaded file)*
+
 
 ---
 
@@ -120,8 +120,7 @@ This page shows:
 - Strategic sourcing insights  
 
 ![Supplier Performance](Dashboard_Images/Page3PNG.PNG)
-*(This corresponds to the first large agency table + bar charts shown on page 5)*
-:contentReference[oaicite:2]{index=2}
+
 
 ---
 
@@ -135,8 +134,7 @@ This page contains:
 - Cost per night by # of flights  
 
 ![Cost Efficiency](Dashboard_Images/Page2PNG.PNG)
-*(This corresponds to the scatter + hotel visual section shown on page 6)* 
-:contentReference[oaicite:3]{index=3}
+
 
 ---
 
